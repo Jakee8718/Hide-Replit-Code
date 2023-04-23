@@ -2,7 +2,10 @@
 
 Make it so others cannot steal from you!
 
+```diff
++ HI
 
+```
 ## Usage
 
 ```diff
