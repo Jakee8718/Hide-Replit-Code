@@ -4,6 +4,11 @@ Make it so others cannot steal from you!
 
 Join the [Discord!](https://discord.gg/qybBqmkcnE)
 
+## Update:
+
+```yaml
+apparently this was "skidded" so im SORRY sandwich. I changed it if your happy. works the same just recoded through en
+
 ## Usage
 
 ```diff
