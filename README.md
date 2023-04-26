@@ -4,6 +4,9 @@ Make it so others cannot steal from you!
 
 Join the [Discord!](https://discord.gg/qybBqmkcnE)
 
+
+<p align="center"> <img src="https://img.shields.io/github/downloads/Jakee8718/Hide-Replit-Code/total?label=Downloads" alt="Downloads" /> </p>
+
 ## Update:
 
 ```yaml
