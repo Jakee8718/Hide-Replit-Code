@@ -10,7 +10,8 @@ Join the [Discord!](https://discord.gg/qybBqmkcnE)
 ## Update:
 
 ```yaml
-apparently this was "skidded" so im SORRY sandwich. I changed it if your happy. works the same just recoded through en
+apparently this was "skidded" so im SORRY sandwich. I changed it if your happy.
+ works the same just recoded through en
 ```
 ## Usage
 
