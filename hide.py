@@ -1,8 +1,9 @@
-# https://www.base64encode.org/ to encode
-# https://www.base64decode.org/ to decode.
+import os
 
-x = input('encoded code: ')
-
-print(f'Your env: {x}Your public code: import base64; x = "{x}"; exec(base64.b64decode(f"{x}"))') # put base64 then decodes
-
-print('have fun')
+secret_value = os.environ['SECRET_ENV']
+# put your code into secrets
+# name the secret 'SECRET_ENV'
+# import modules
+# run
+# ur done
+# 4/26/23
