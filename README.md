@@ -9,11 +9,12 @@ Join the [Discord!](https://discord.gg/qybBqmkcnE)
 
 ## Update:
 
-`yaml
+```yaml
 4/27/23 another update lol - apparently ppl are mad because its a skid because of the file name?? wtf?
+```
 
 ```yaml
-apparently this was "skidded" so im SORRY sandwich. I changed it if your happy.
+OLD: apparently this was "skidded" so im SORRY sandwich. I changed it if your happy.
  works the same just recoded through en
 ```
 ## Usage
