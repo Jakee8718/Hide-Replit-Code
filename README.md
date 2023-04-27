@@ -5,9 +5,12 @@ Make it so others cannot steal from you!
 Join the [Discord!](https://discord.gg/qybBqmkcnE)
 
 
-<p align="center"> <img src="https://img.shields.io/github/downloads/Jakee8718/Hide-Replit-Code/total?label=Downloads" alt="Downloads" /> </p>
+<p align="center"> <img src=" [![HitCount](https://hits.dwyl.com/Jakee8718/Hide-Replit-Code.svg?style=flat-square)](http://hits.dwyl.com/Jakee8718/Hide-Replit-Code)" alt="Repo Visits" /> </p>
 
 ## Update:
+
+`yaml
+4/27/23 another update lol - apparently ppl are mad because its a skid because of the file name?? wtf?
 
 ```yaml
 apparently this was "skidded" so im SORRY sandwich. I changed it if your happy.
